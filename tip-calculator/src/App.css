@@ -161,7 +161,7 @@ h6 {
 }
 #reset {
   background-color: hsl(172, 67%, 45%);
-  color: var(--veray-dark-cyan);
+  color: var(--very-dark-cyan);
   width: 95%;
   height: 15%;
   border-radius: 5px;
